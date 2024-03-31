@@ -1,4 +1,3 @@
-import SubscriberFluent
 import SubscriberKit
 import Vapor
 

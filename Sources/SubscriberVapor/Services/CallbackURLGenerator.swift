@@ -1,6 +1,5 @@
 import Foundation
 import SubscriberKit
-import Vapor
 
 
 public protocol CallbackURLGenerator {
