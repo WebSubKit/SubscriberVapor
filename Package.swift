@@ -17,8 +17,8 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/vapor/vapor.git", from: "4.92.0"),
         .package(url: "https://github.com/vapor/fluent.git", from: "4.9.0"),
-        .package(url: "https://github.com/WebSubKit/SubscriberKit.git", revision: "f5e06e6"),
-        .package(url: "https://github.com/WebSubKit/SubscriberFluent.git", revision: "0af9fa4")
+        .package(url: "https://github.com/WebSubKit/SubscriberKit.git", revision: "8bc44e1"),
+        .package(url: "https://github.com/WebSubKit/SubscriberFluent.git", revision: "1e1f1ea")
     ],
     targets: [
         .target(
